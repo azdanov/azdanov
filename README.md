@@ -9,7 +9,9 @@ In any case thank you for dropping in! 🙂
 
 ## Bio
 
-My name is Anton Ždanov. I'm a Full Stack Developer from Estonia! I'm working mostly with Java (Spring Boot/Hibernate), TypeScript (Angular) and JavaScript (VueJS)!
+My name is Anton Ždanov. I'm a Full Stack Developer from Estonia!
+
+I'm working mostly with Java (Spring Boot/Hibernate), TypeScript (Angular) and JavaScript (VueJS)!
 
 ## My latest blog posts
 <!-- BLOG-POST-LIST:START -->
