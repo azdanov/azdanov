@@ -1,23 +1,15 @@
-# Anton Zdanov
+# Anton Ždanov
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/thezdanov?label=Follow)](https://twitter.com/thezdanov)
+[![Linkedin: thezdanov](https://img.shields.io/badge/-Anton%20Zdanov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thezdanov/)](https://www.linkedin.com/in/thezdanov/)
 
 Hey! Awesome that you visited. I hope you find something useful for you here.
 
 In any case thank you for dropping in! 🙂
 
-<!--
-**azdanov/azdanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bio
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Anton Ždanov. I'm a Full Stack Developer from Estonia! I'm working mostly with Java (Spring Boot/Hibernate), TypeScript (Angular) and JavaScript (VueJS)!
 
 ## My latest blog posts
 <!-- BLOG-POST-LIST:START -->
