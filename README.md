@@ -1,4 +1,8 @@
-### Hi there 👋
+# Anton Zdanov
+
+Hey! Awesome that you visited. I hope you find something useful for you here.
+
+In any case thank you for dropping in! 🙂
 
 <!--
 **azdanov/azdanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
