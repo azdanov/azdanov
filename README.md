@@ -15,9 +15,9 @@ I'm working mostly with Java (Spring Boot/Hibernate), TypeScript (Angular) and J
 
 ## My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Configuring EhCache 3 and Event Listeners in Spring Boot](https://azdanov.js.org/posts/configuring-ehcache-3-and-event-listeners-in-spring-boot/)
-- [Migrating to 11ty](https://azdanov.js.org/posts/migrating-to-11ty/)
-- [Huge Milestone: Getting Hired](https://azdanov.js.org/posts/huge-milestone-getting-hired/)
-- [Interview Exercises: The TDD Way](https://azdanov.js.org/posts/interview_exercises_tdd_way/)
-- [Must watch videos #1](https://azdanov.js.org/posts/must-watch-videos-1/)
+- [Migrating to Hugo](https://azdanov.js.org/posts/2021/05/migrating-to-hugo/)
+- [Configuring EhCache 3 and Event Listeners in Spring Boot](https://azdanov.js.org/posts/2020/09/configuring-ehcache-3-and-event-listeners-in-spring-boot/)
+- [Migrating to 11ty](https://azdanov.js.org/posts/2020/09/migrating-to-11ty/)
+- [About](https://azdanov.js.org/about/)
+- [Huge Milestone: Getting Hired](https://azdanov.js.org/posts/2019/06/huge-milestone-getting-hired/)
 <!-- BLOG-POST-LIST:END -->
