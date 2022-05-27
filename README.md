@@ -15,9 +15,9 @@ I'm working mostly with Java (Spring Boot/Hibernate), TypeScript (Angular) and J
 
 ## My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Easy Development Certificates (SSL/TLS) for Spring Boot](https://azdanov.js.org/posts/2021/05/easy-development-certificates-ssl/tls-for-spring-boot/)
-- [Multiple PostgreSQL Databases in Docker](https://azdanov.js.org/posts/2021/05/multiple-postgresql-databases-in-docker/)
-- [Migrating to Hugo](https://azdanov.js.org/posts/2021/05/migrating-to-hugo/)
-- [Configuring EhCache 3 and Event Listeners in Spring Boot](https://azdanov.js.org/posts/2020/09/configuring-ehcache-3-and-event-listeners-in-spring-boot/)
-- [Migrating to 11ty](https://azdanov.js.org/posts/2020/09/migrating-to-11ty/)
+- [About](https://azdanov.dev/about/)
+- [Easy Development Certificates &lpar;SSL/TLS&rpar; for Spring Boot](https://azdanov.dev/posts/2021/05/easy-development-certificates-ssl/tls-for-spring-boot/)
+- [Multiple PostgreSQL Databases in Docker](https://azdanov.dev/posts/2021/05/multiple-postgresql-databases-in-docker/)
+- [Migrating to Hugo](https://azdanov.dev/posts/2021/05/migrating-to-hugo/)
+- [Configuring EhCache 3 and Event Listeners in Spring Boot](https://azdanov.dev/posts/2020/09/configuring-ehcache-3-and-event-listeners-in-spring-boot/)
 <!-- BLOG-POST-LIST:END -->
