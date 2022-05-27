@@ -13,7 +13,7 @@ My name is Anton Ždanov. I'm a Full Stack Developer from Estonia!
 
 I'm working mostly with Java (Spring Boot/Hibernate), TypeScript (Angular) and JavaScript (VueJS)!
 
-## My latest blog posts
+## My latest website updates
 <!-- BLOG-POST-LIST:START -->
 - [About](https://azdanov.dev/about/)
 - [Easy Development Certificates &lpar;SSL/TLS&rpar; for Spring Boot](https://azdanov.dev/posts/2021/05/easy-development-certificates-ssl/tls-for-spring-boot/)
