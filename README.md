@@ -1,6 +1,5 @@
 # Anton Ždanov
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/thezdanov?label=Follow)](https://twitter.com/thezdanov)
 [![Linkedin: thezdanov](https://img.shields.io/badge/-Anton%20Ždanov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thezdanov/)](https://www.linkedin.com/in/thezdanov/)
 
 Hey! Awesome that you visited. I hope you find something useful for you here.
