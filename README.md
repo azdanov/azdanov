@@ -1,6 +1,6 @@
 # Anton Ždanov
 
-[![Linkedin: thezdanov](https://img.shields.io/badge/-Anton%20Ždanov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thezdanov/)](https://www.linkedin.com/in/thezdanov/)
+[![Linkedin: thezdanov](https://img.shields.io/badge/-Anton%20Ždanov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azdanov/)](https://www.linkedin.com/in/azdanov/)
 
 Hey! Awesome that you visited. I hope you find something useful for you here.
 
