@@ -14,9 +14,9 @@ I'm working mostly with Java (Spring Boot/Hibernate), TypeScript (Angular) and J
 
 ## My latest website updates
 <!-- BLOG-POST-LIST:START -->
+- [Learning about dependency injection in C# and .NET](https://azdanov.dev/articles/learning-about-dependeny-injection-in-csharp-and-dotnet)
 - [Learning to build RESTful APIs with C# and .NET 7](https://azdanov.dev/articles/first-steps-restful-api-dotnet)
 - [Using XACT_ABORT and NOCOUNT in SQL Server Procedures](https://azdanov.dev/articles/using-xact-abort-and-nocount-in-sql-server)
 - [Migrating to Next.js](https://azdanov.dev/articles/migrating-to-nextjs)
 - [What is Cloud?](https://azdanov.dev/articles/what-is-cloud)
-- [Easy Development Certificates &lpar;SSL/TLS&rpar; for Spring Boot](https://azdanov.dev/articles/easy-development-certificate-for-spring-boot)
 <!-- BLOG-POST-LIST:END -->
