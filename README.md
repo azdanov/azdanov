@@ -10,7 +10,7 @@ In any case thank you for dropping in! 🙂
 
 My name is Anton Ždanov. I'm a Full Stack Developer from Estonia!
 
-I'm working mostly with Java (Spring Boot/Hibernate), TypeScript (Angular) and JavaScript (VueJS)!
+I'm working with all sorts of technologies. Can get to know me a bit more on my personal website: https://azdanov.dev/
 
 ## My latest website updates
 <!-- BLOG-POST-LIST:START -->
