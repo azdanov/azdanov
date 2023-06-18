@@ -14,9 +14,9 @@ I'm working with all sorts of technologies. Can get to know me a bit more on my 
 
 ## My latest website updates
 <!-- BLOG-POST-LIST:START -->
+- [Getting Microsoft Certified: Azure Administrator Associate &lpar;AZ-104&rpar;](https://www.azdanov.dev/articles/getting-microsoft-certified-azure-administrator-associate)
 - [Free Azure DevOps Parallel Jobs for Public and Private Repositories](https://www.azdanov.dev/articles/free-azure-devops-parallel-jobs)
 - [Getting Microsoft Certified: Azure Fundamentals &lpar;AZ-900&rpar;](https://www.azdanov.dev/articles/getting-microsoft-certified-azure-fundamentals)
 - [How to host a static website on AWS S3, CloudFront and Route53 using Terraform](https://www.azdanov.dev/articles/aws-terraform-static-website)
 - [Learning about dependency injection in C# and .NET](https://www.azdanov.dev/articles/learning-about-dependeny-injection-in-csharp-and-dotnet)
-- [Learning to build RESTful APIs with C# and .NET 7](https://www.azdanov.dev/articles/first-steps-restful-api-dotnet)
 <!-- BLOG-POST-LIST:END -->
