@@ -4,7 +4,7 @@
 
 Hey! Awesome that you visited. I hope you find something useful for you here.
 
-In any case thank you for dropping in! 🙂
+In any case thank you for dropping by! 🙂
 
 ## Bio
 
