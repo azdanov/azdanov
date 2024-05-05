@@ -14,9 +14,9 @@ I'm working with all sorts of technologies. Can get to know me a bit more on my 
 
 ## My latest website updates
 <!-- BLOG-POST-LIST:START -->
-- [Setting up an AWS CDK GitHub Actions pipeline for a Spring Boot app](https://www.azdanov.dev/articles/setting-up-aws-cdk-github-actions-pipeline-for-spring-boot)
-- [Starting to learn about AWS CDK with a Spring Boot app](https://www.azdanov.dev/articles/learning-about-aws-cdk-and-spring-boot)
-- [Getting Microsoft Certified: Azure Developer Associate &lpar;AZ-204&rpar;](https://www.azdanov.dev/articles/getting-microsoft-certified-azure-developer-associate)
-- [Getting Microsoft Certified: Azure Administrator Associate &lpar;AZ-104&rpar;](https://www.azdanov.dev/articles/getting-microsoft-certified-azure-administrator-associate)
-- [Free Azure DevOps Parallel Jobs for Public and Private Repositories](https://www.azdanov.dev/articles/free-azure-devops-parallel-jobs)
+- [Setting up an AWS CDK GitHub Actions pipeline for a Spring Boot app](https://www.azdanov.dev/articles/2023/setting-up-aws-cdk-github-actions-pipeline-for-spring-boot)
+- [Starting to learn about AWS CDK with a Spring Boot app](https://www.azdanov.dev/articles/2023/learning-about-aws-cdk-and-spring-boot)
+- [Getting Microsoft Certified: Azure Developer Associate &lpar;AZ-204&rpar;](https://www.azdanov.dev/articles/2023/getting-microsoft-certified-azure-developer-associate)
+- [Getting Microsoft Certified: Azure Administrator Associate &lpar;AZ-104&rpar;](https://www.azdanov.dev/articles/2023/getting-microsoft-certified-azure-administrator-associate)
+- [Free Azure DevOps Parallel Jobs for Public and Private Repositories](https://www.azdanov.dev/articles/2023/free-azure-devops-parallel-jobs)
 <!-- BLOG-POST-LIST:END -->
