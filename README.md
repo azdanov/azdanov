@@ -14,9 +14,9 @@ I'm working with all sorts of technologies. Can get to know me a bit more on my 
 
 ## My latest website updates
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Virtual Display for Sunshine on Arch Linux](https://www.azdanov.dev/articles/2025/how-to-create-a-virtual-display-for-sunshine-on-arch-linux)
+- [Solving VRR Issue on Linux with KDE and AMD GPU](https://www.azdanov.dev/articles/2025/solving-vrr-issues-on-linux-with-kde-and-amd-gpu)
 - [My CKAD Journey: Getting Certified in Kubernetes](https://www.azdanov.dev/articles/2024/my-ckad-journey-getting-certified-in-kubernetes)
 - [How to Use Proton VPN WireGuard with NextDNS on Linux](https://www.azdanov.dev/articles/2024/how-to-use-proton-vpn-wireguard-with-nextdns-on-linux)
 - [Implementing a Fixed Width Pagination in a Spring Boot App with Thymeleaf](https://www.azdanov.dev/articles/2024/implementing-pagination-in-a-spring-boot-app-with-thymeleaf)
-- [Setting up an AWS CDK GitHub Actions pipeline for a Spring Boot app](https://www.azdanov.dev/articles/2023/setting-up-aws-cdk-github-actions-pipeline-for-spring-boot)
-- [Starting to learn about AWS CDK with a Spring Boot app](https://www.azdanov.dev/articles/2023/learning-about-aws-cdk-and-spring-boot)
 <!-- BLOG-POST-LIST:END -->
