@@ -1,10 +1,8 @@
 # Anton Ždanov
 
-[![Linkedin: thezdanov](https://img.shields.io/badge/-Anton%20Ždanov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azdanov/)](https://www.linkedin.com/in/azdanov/)
+Hey! Awesome that you stopped by. I hope you find something useful here.
 
-Hey! Awesome that you visited. I hope you find something useful for you here.
-
-In any case thank you for dropping by! 🙂
+Either way, thanks for the visit! 🙂
 
 ## Bio
 
