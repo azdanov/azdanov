@@ -4,6 +4,11 @@ Hey! Awesome that you stopped by. I hope you find something useful here.
 
 Either way, thanks for the visit! 🙂
 
+Cool stuff that you can check out:
+
+- https://cachyos.org/
+- https://astronvim.com/
+
 ## Bio
 
 My name is Anton Ždanov. I'm a Full Stack Developer from Estonia!
