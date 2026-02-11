@@ -9,6 +9,10 @@ Cool stuff that you can check out:
 - https://cachyos.org/
 - https://astronvim.com/
 
+## Favorite quote
+
+> [Make it work, make it right, make it fast](https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast)
+
 ## Bio
 
 My name is Anton Ždanov. I'm a Full Stack Developer from Estonia!
