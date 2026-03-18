@@ -9,9 +9,10 @@ Cool stuff that you can check out:
 - https://cachyos.org/
 - https://astronvim.com/
 
-## Favorite quote
+## Favorites
 
 > [Make it work, make it right, make it fast](https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast)
+> [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 
 ## Bio
 
