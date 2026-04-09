@@ -16,8 +16,6 @@ Cool stuff that you can check out:
 
 ---
 
-- "A good API is not just easy to use but also hard to misuse." - JBD
-- "You can always embed, but you cannot decompose big interfaces once they are out there. Keep interfaces small." - JBD
 - "Don't design with interfaces, discover them." - Rob Pike
 - "Duplication is far cheaper than the wrong abstraction. - Sandi Metz
 
