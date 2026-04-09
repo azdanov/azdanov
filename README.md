@@ -16,8 +16,8 @@ Cool stuff that you can check out:
 
 ---
 
-- "Don't design with interfaces, discover them." - Rob Pike
-- "Duplication is far cheaper than the wrong abstraction. - Sandi Metz
+- Don't design with interfaces, discover them. - Rob Pike
+- Duplication is far cheaper than the wrong abstraction. - Sandi Metz
 
 [Interface and Composition Design](https://github.com/ardanlabs/gotraining/blob/master/topics/go/design/composition/README.md)
 
