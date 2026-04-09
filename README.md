@@ -14,6 +14,15 @@ Cool stuff that you can check out:
 - [Make it work, make it right, make it fast](https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast)
 - [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 
+---
+
+- "A good API is not just easy to use but also hard to misuse." - JBD
+- "You can always embed, but you cannot decompose big interfaces once they are out there. Keep interfaces small." - JBD
+- "Don't design with interfaces, discover them." - Rob Pike
+- "Duplication is far cheaper than the wrong abstraction. - Sandi Metz
+
+[Interface and Composition Design](https://github.com/ardanlabs/gotraining/blob/master/topics/go/design/composition/README.md)
+
 ## Bio
 
 My name is Anton Ždanov. I'm a Full Stack Developer from Estonia!
