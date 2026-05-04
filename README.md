@@ -8,6 +8,7 @@ Cool stuff that you can check out:
 
 - https://cachyos.org/
 - https://astronvim.com/
+- https://www.seafoam-labs.org/
 
 ## Favorites
 
